@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bootstrap-5-with-react/static/css/main.830da0c5.chunk.css",
+    "main.js": "/bootstrap-5-with-react/static/js/main.034ee217.chunk.js",
+    "main.js.map": "/bootstrap-5-with-react/static/js/main.034ee217.chunk.js.map",
+    "runtime-main.js": "/bootstrap-5-with-react/static/js/runtime-main.570b6c6c.js",
+    "runtime-main.js.map": "/bootstrap-5-with-react/static/js/runtime-main.570b6c6c.js.map",
+    "static/js/2.a6710da0.chunk.js": "/bootstrap-5-with-react/static/js/2.a6710da0.chunk.js",
+    "static/js/2.a6710da0.chunk.js.map": "/bootstrap-5-with-react/static/js/2.a6710da0.chunk.js.map",
+    "index.html": "/bootstrap-5-with-react/index.html",
+    "precache-manifest.d5a30ea38cc801e0a4719b57f523183b.js": "/bootstrap-5-with-react/precache-manifest.d5a30ea38cc801e0a4719b57f523183b.js",
+    "service-worker.js": "/bootstrap-5-with-react/service-worker.js",
+    "static/css/main.830da0c5.chunk.css.map": "/bootstrap-5-with-react/static/css/main.830da0c5.chunk.css.map",
+    "static/js/2.a6710da0.chunk.js.LICENSE.txt": "/bootstrap-5-with-react/static/js/2.a6710da0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.570b6c6c.js",
+    "static/js/2.a6710da0.chunk.js",
+    "static/css/main.830da0c5.chunk.css",
+    "static/js/main.034ee217.chunk.js"
+  ]
+}
